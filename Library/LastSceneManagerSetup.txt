@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "C:/Users/Administrator/Desktop/\uC0C8 \uD3F4\uB354/Assets/Angry.unity"
+  isLoaded: 1
+  isActive: 1
